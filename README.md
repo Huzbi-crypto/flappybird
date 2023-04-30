@@ -1,5 +1,4 @@
-# Flappy Bird (remix)
-The famous game made with C++ and SFML
+# Flappy Bird Project
 
 ---
 
@@ -28,4 +27,4 @@ make
 
 ---
 
-Game made in the video tutorial: <https://youtu.be/lPDl6ul8-wg>
+
